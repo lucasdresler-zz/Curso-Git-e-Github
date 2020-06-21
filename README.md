@@ -1,2 +1,2 @@
 # Curso Git e Github
- Curso Git e Github do Curso em Vídeo
+ Curso Git e Github do Curso em Vídeo do Gustavo Guanabara.
